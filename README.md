@@ -6,7 +6,7 @@ $$F(1) = 1, \ \ F(2) = 1, \ \ F(n) = F(n - 1) + F(n - 2), \ \ \ for \ n > 2$$
 
 $$ <1, 1, 2, 3, 5, 8, 13, 21, 34, 55, \cdots>$$
 
-Fibonacci numbers satisfy the following three properties.
+The sum of first $n$ fibonacci numbers is equal to $F(n + 2) - 1$, and the ratio of two consecutive fibonacci numbers converge to $1.61803$ as $n$ goes to the infinity, which is called golden ratio. Apart from these, a special square property is satisfied between the terms $<n, n+1, 2n+1>$ in a way that the sum of squares of two smaller terms refers to the biggest term:
 
 $$lim_{n \rightarrow \infty} \frac{F(n + 1)}{F(n)} \approx 1.61803$$
 
