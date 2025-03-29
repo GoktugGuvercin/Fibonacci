@@ -8,8 +8,8 @@ $$ <0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55>$$
 
 Fibonacci numbers satisfy the following properties:
 
-- **Golden Ratio:** lim_{n \rightarrow \infty} \frac{F(n + 1)}{F(n)} \approx 1.61803
+- **Golden Ratio:** $lim_{n \rightarrow \infty} \frac{F(n + 1)}{F(n)} \approx 1.61803$
 
-- **Sum Property:** F(n + 2) - 1 = \sum_{n = 1}^N F(n)
+- **Sum Property:** $F(n + 2) - 1 = \sum_{n = 1}^N F(n)$
 
-- **Square Property:** F(n)**2 + F(n + 1)**2 = F(2n + 1)
+- **Square Property:** $F(n)**2 + F(n + 1)**2 = F(2n + 1)$
