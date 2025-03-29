@@ -12,6 +12,7 @@ for i in range(1, 10):
 end = time.time()
 print("Duration: ", end - start)
 
+
 print("\nFibonacci Pow:")
 start = time.time()
 for i in range(1, 10):
