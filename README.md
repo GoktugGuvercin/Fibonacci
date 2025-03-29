@@ -24,4 +24,4 @@ Dynamic programming addresses this inefficiency by storing previously computed t
   <img src="https://github.com/GoktugGuvercin/Fibonacci/blob/main/images/recursion_tree.png" width="700" title="Recursion Tree">
 </p>
 
-In the image given above, a recursion tree is constructed for the computation of $7$th term in fibonacci sequence. Once a term is computed, it is saved in fibonacci table. In that way, same recursive call is not made again. At this point, green circles are pruned recursive calls with the help of memoization. 
+In the image given above, a recursion tree is constructed for the computation of $7$ th term in fibonacci sequence. Once a term is computed, it is saved in fibonacci table. In that way, same recursive call is not made again. At this point, green circles are pruned recursive calls with the help of memoization. 
